@@ -11,4 +11,12 @@
 
 3.To alert the planners to enter required information 2 months prior to fill date, an email alert system is created in Microsoft Office Power Automate which generates different levels of priority emails based on number of days between current date and fill date.
 The flow looks like the below:
+![image](https://github.com/user-attachments/assets/5ddb0204-d8cc-4025-8bae-e64fb6d5dfc0)
+
+**RESULT:**
+One of generated alert emails look like below:
+	![image](https://github.com/user-attachments/assets/e163374c-4363-4bdf-b371-56f2e8fdde68)
+ This will alert the Material Planners on a weekly basis to enter the material if they have not entered.
+
+
 
